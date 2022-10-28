@@ -1,0 +1,192 @@
+#preFooter{
+    background: #343579 url(https://www.craftginclub.co.uk/assets/footer/signup-footer-background.png) no-repeat -2px -2px;
+    background-size: 14%;
+}
+
+#preFooter .title{
+    color: #FFF;
+    text-align: center;
+}
+
+#preFooter .thanks-message {
+    color: #f4da40;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+.footer-signup{
+    display: flex;
+    justify-content: center;
+    padding: 0 5px;
+    font-family: Mohr;
+}    
+
+.footer-signup--container{
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 30px 5px;
+}
+
+.left-column{
+    color: white;
+}
+
+.left-column .title {
+    font-family: Mohr;
+    font-size: 3.2rem !important;
+    font-weight: 900;
+    line-height: 2rem;
+    text-transform: uppercase;
+    margin: 10px 0 0 0;
+    color: #fff;
+}
+
+
+.left-column .title .offer-text--small{
+    font-size: 1.7rem;
+    display: block;
+}
+
+.left-column p{
+    font-size: 1rem;
+    line-height: 1.4rem;
+    margin: 15px 0 0 0;
+    color: white;
+    text-align: center;
+}
+
+.right-column .email-signup{
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.right-column .email-signup .email-signup--form{
+    width: 100%;
+}    
+
+.email-signup--form input[type='text'], .email-signup--form input[type='email'] {
+    width: 55%;
+    text-align: left;
+    font-family: Mohr, sans-serif;
+    font-size: 14px;
+    margin-right: 5px;
+    background: #b8b9d0;
+    border: none;
+    padding: 10px 10px;
+    display: inline; 
+}
+
+.email-signup--form input[type='text']::placeholder, .email-signup--form input[type='email']::placeholder{
+    color: #343579;
+}
+
+.email-signup--form .submit-button{
+    width: 40%;
+    background: #f4da40;
+    margin-top: 20px;
+    font-family: Mohr, sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #343579;
+    display: inline-block;
+    padding: 13px 0 10px;
+    cursor: pointer;
+    letter-spacing: .04em;
+    border: none;
+}
+
+
+.email-signup--form p{  
+    width: 100%;
+    margin-left: 0;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.signup-privacy__link{
+    color: white;
+    text-decoration: underline;
+    font-weight: normal !important;
+}
+
+.success-msg{
+    margin-top: 35px;
+    text-align: center;
+}
+
+.success-msg .thanks-message{
+    color: #f4da40;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.success-msg p {
+    color: white;
+    font-size: 15px;
+    font-weight: normal !important;
+}
+
+@media only screen and (min-width: 375px) {
+    .footer-signup{
+        padding: 0 30px;
+    }
+}
+
+
+@media only screen and (max-width: 640px){
+    .sqs-layout .sqs-row .sqs-block:first-child{
+        padding-top: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 650px) {
+    #preFooter{
+        background-size: 4%;
+    }
+
+    .footer-signup--container{
+        max-width: 1080px;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 30% 60%;
+        column-gap: 10%;
+        text-align: left;
+    }
+
+    .email-signup--form input[type='text'], .email-signup--form input[type='email'] {
+        font-size: 18px;
+        margin-right: 5px;
+        padding-left: 18px;
+        display: inline; 
+    }
+                 
+
+    .email-signup--form .submit-button{
+        font-size: 16px;
+    }
+
+    .footerSignMsg h4{
+        text-align: left;
+    }
+
+    #preFooter h4{
+        text-align: left;
+    }
+
+    #preFooter .title {
+        text-align: left;
+    }
+
+    .left-column p{
+        text-align: left;
+    }
+}
+
+

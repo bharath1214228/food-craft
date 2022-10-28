@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 21:45:16 at https://www.craftginclub.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.craftginclub.co.uk/ -O1 "C:\Users\dell\Desktop\barath\food3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:14	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.craftginclub.co.uk/)
+21:49:34	Error: 	Exit requested by shell or user
+21:49:35	Error: 	"Not Found" (404) at link https://www.craftginclub.co.uk/assets/fonts/Mohr-BoldIt.woff2 (from https://www.craftginclub.co.uk/)
+21:49:35	Error: 	"Not Found" (404) at link https://www.craftginclub.co.uk/assets/fonts/Mohr-ThinIt.woff2 (from https://www.craftginclub.co.uk/)
+21:49:40	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-default (from https://www.craftginclub.co.uk/)
+21:49:40	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-preview (from https://www.craftginclub.co.uk/)
+21:49:41	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-xmas-2022 (from https://www.craftginclub.co.uk/)
+21:49:41	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-black-friday-2022 (from https://www.craftginclub.co.uk/)
+21:49:41	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-boxing-day-2022 (from https://www.craftginclub.co.uk/)
+21:49:41	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-25-oct-past-boxes (from https://www.craftginclub.co.uk/)
+21:49:41	Error: 	"Unauthorized" (401) at link https://www.craftginclub.co.uk/home-full-xmas-2022 (from https://www.craftginclub.co.uk/)
+21:49:59	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js (from https://cdn.cookielaw.org/consent/29d3ae5e-9fc3-4c29-ba1e-8b58c08f030a/OtAutoBlock.js)
+21:49:59	Error: 	"Not Found" (404) at link https://d.clarity.ms/s/0.6.31/clarity.js (from https://cdn.cookielaw.org/consent/29d3ae5e-9fc3-4c29-ba1e-8b58c08f030a/OtAutoBlock.js)
+21:49:59	Error: 	"Not Found" (404) at link https://www.clarity.ms/eus2-e/s/0.6.39/clarity.js (from https://cdn.cookielaw.org/consent/29d3ae5e-9fc3-4c29-ba1e-8b58c08f030a/OtAutoBlock.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 45 seconds : 212 links scanned, 198 files written (20999126 bytes overall) [16518011 bytes received at 57957 bytes/sec], 9014839 bytes transferred using HTTP compression in 104 files, ratio 24%, 3.0 requests per connection
+(14 errors, 0 warnings, 0 messages)

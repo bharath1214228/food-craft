@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.craftginclub.co.uk	TRUE	/privacy-policy	FALSE	1999999999	RecentRedirect	1:1666887558:gRHRSKAUhRKXjK2LocrR7u/otBTZAeMv1DMKKCBev48=
+www.craftginclub.co.uk	TRUE	/join	FALSE	1999999999	RecentRedirect	1:1666887424:K8UxyKaucbuwUHOJTq69om9ebsBrLUNg7jlZ0faIOzI=
+www.craftginclub.co.uk	TRUE	/	FALSE	1999999999	crumb	BaAi0IevG4iQOGVjMTZiZWMxMGViOWFlYzRiZGJiNGQ1ZDBkZTcx
+.bing.com	TRUE	/	FALSE	1999999999	MUID	2EC4FD9770D06E822A47EFDD71386F01
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+craftginclub.co.uk	TRUE	/	FALSE	1999999999	crumb	BdCsqAqg/Mv6YjQ4NGIyOTA5MzI0MDkwY2QyMTAzMGIwMGYzNGQ3
+uk-script.dotmetrics.net	TRUE	/	FALSE	1999999999	AWSALB	ioCBZXOmlKkYnkYt+n4+RO+Kd1tgo2QjQP5wxVTEigILxeVB5LxY7vXRml5QfXnmUJvZtzkU6pbuoqV76kkFEjirpvEWuKpw44IxQxqE83bi44lxclFk2H7K/7ka
+uk-script.dotmetrics.net	TRUE	/	FALSE	1999999999	AWSALBCORS	ioCBZXOmlKkYnkYt+n4+RO+Kd1tgo2QjQP5wxVTEigILxeVB5LxY7vXRml5QfXnmUJvZtzkU6pbuoqV76kkFEjirpvEWuKpw44IxQxqE83bi44lxclFk2H7K/7ka
+.dotmetrics.net	TRUE	/	FALSE	1999999999	DotMetrics.DeviceKey	DeviceID=
+.dotmetrics.net	TRUE	/	FALSE	1999999999	DotMetrics.UniqueUserIdentityCookie	UserID=695d822a-ec36-46d3-ae28-a8de86205f4f&Created=10/27/2022 16:19:27&UserMode=0&guid=3aa05904-bdbb-4501-a1e1-bb955e91291b&ver=1
+uk-script.dotmetrics.net	TRUE	/	FALSE	1999999999	SameSite	None
+
